@@ -2,11 +2,11 @@
 
 <h6 align="center"><i>True simplicity is derived from so much more, than just the absence of clutter and ornamentation, it's about bringing order to complexity.</i><br><sub>Johnathan Ive</h6>
 
-<h2>My Bio</h2>
+<h2>About me</h2>
 
 - I'm 15
 - I'm from Czechia
-- programming major
+- Software engineering student
 - A 🤓
 
 
