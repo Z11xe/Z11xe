@@ -6,7 +6,7 @@
 
 - I'm 15
 - I'm from Czechia
-- Software engineering student
+- Computer science student 
 - A 🤓
 
 
